@@ -1,0 +1,10 @@
+- [x] Rebuild the Work page in the supplied reference style.
+- [x] Add the shared project showcase to the homepage.
+- [x] Humanize general copy, update titles to use pipes, and remove long dashes.
+- [x] Add smooth continuous movement to the homepage project showcase that pauses on hover.
+- [x] Complete final desktop, mobile, interaction, and build checks.
+- [x] Add subtle cursor-responsive 3D motion to the homepage and selected cards.
+- [x] Remove project image placeholders and redesign project cards for content-only presentation.
+- [x] Validate motion, carousel behavior, mobile layout, reduced motion, and build health.
+- [x] Return cards to a flat presentation and move cursor-responsive depth into the homepage background.
+- [x] Upgrade the homepage background to a surreal interactive Three.js scene while preserving readability and reduced motion.
